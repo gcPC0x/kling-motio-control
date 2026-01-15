@@ -1,0 +1,15 @@
+{
+  "name": "hzele251128-cmyk/kling-motio-control",
+  "description": "A robust and reliable PHP library providing a high-quality technical integration for Kling Motion Control systems.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://supermaker.ai/blog/what-is-kling-motion-control-ai-how-to-use-motion-control-ai-free-online/",
+  "autoload": {
+    "psr-4": {
+      "klingmotiocontrol\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
